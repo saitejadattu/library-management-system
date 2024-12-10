@@ -1,0 +1,25 @@
+.each-book-list-item{
+    display: flex;
+}
+table {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  .request-button{
+    color: #ffff;
+    background-color: rgb(217, 50, 50);
+    border: 0px;
+    border-radius: 5px;
+    padding: 5px;
+  }

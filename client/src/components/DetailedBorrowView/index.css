@@ -1,0 +1,23 @@
+.red-button{
+    color: #ffff;
+    background-color: rgb(235, 75, 75);
+    padding: 10px;
+    border: 0px;
+    border-radius: 5px;
+    width: 80px;
+}
+.ap-dn-button-container{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.detailed-view-container{
+    height: 100vh;
+}
+.detailed-view-info-container{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
